@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Would like to know a little bit better:
 - CUDA C/C++ (did few fun projects),
 - Python (as a prototyping tool),
-- \*nix systems
+- \*nix systems.
 
 :books: Currently learning:
 - F# (on hold),
