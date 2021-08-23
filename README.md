@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **WojcikMikolaj/WojcikMikolaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +35,8 @@ Would like to know a little bit better:
 - Unity engine.
 
  Side projects:
-- Class library for graphs algorithms (C#, available on Nuget, on hold 😐:),
-- Home weather station/entertainment system based on RPi 4 and RPi zero (electronics + Python + maybe C/C++, also on hold ☹️).
+- [Class library for graphs algorithms](https://github.com/WojcikMikolaj/GraphsLibrary) (C#, available on [Nuget](https://www.nuget.org/packages/Mikwk.GraphLibrary/), on hold 😐:),
+- [Home weather station/entertainment system](https://github.com/WojcikMikolaj/WeatherStation) based on RPi 4 and RPi zero (electronics + Python + maybe C/C++, also on hold ☹️).
 
 Some of my passions and things i like:
 - :performing_arts:,
