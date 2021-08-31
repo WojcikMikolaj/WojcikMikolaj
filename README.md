@@ -32,7 +32,8 @@ Would like to know a little bit better:
 :books: Currently learning:
 - F# (on hold),
 - Shaders,
-- Unity engine.
+- Unity engine,
+- Ansible.
 
  Side projects:
 - [Class library for graphs algorithms](https://github.com/WojcikMikolaj/GraphsLibrary) (C#, available on [Nuget](https://www.nuget.org/packages/Mikwk.GraphLibrary/), on hold 😐:),
