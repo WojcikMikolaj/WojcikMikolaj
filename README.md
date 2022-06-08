@@ -31,6 +31,8 @@ Would like to know a little bit better:
 
 :books: Currently learning:
 - F# (on hold),
+- DirectX,
+- OpenTK,
 - Shaders,
 - Unity engine,
 - VR development,
