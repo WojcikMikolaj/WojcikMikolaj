@@ -24,19 +24,12 @@ Here are some ideas to get you started:
 - SQL (also a bit rusty),
 - Docker 🐳.
 
-Would like to know a little bit better:
-- CUDA C/C++ (did few fun projects),
-- Python (as a prototyping tool),
-- \*nix systems.
-
 :books: Currently learning:
-- F# (on hold),
 - DirectX,
-- OpenTK,
-- Shaders,
+- OpenTK (OpenGL),
+- Vulkan,
 - Unreal Engine 5,
-- VR development,
-- Ansible (on hold).
+- VR development.
 
  Side projects:
 - [Class library for graphs algorithms](https://github.com/WojcikMikolaj/GraphsLibrary) (C#, available on [Nuget](https://www.nuget.org/packages/Mikwk.GraphLibrary/), on hold 😐:),
