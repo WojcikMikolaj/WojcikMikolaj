@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 - C,
 - C++ (a bit rusty),
 - C#,
+- OpenTK,
+- OpenGL,
 - Java 🌋,
 - Python 🐍 (still learning),
 - SQL (also a bit rusty),
-- Docker 🐳.
+- Docker 🐳 (also a bit rusty).
 
 :books: Currently learning:
 - DirectX,
-- OpenTK (OpenGL),
 - Vulkan,
 - Unreal Engine 5,
 - VR development.
