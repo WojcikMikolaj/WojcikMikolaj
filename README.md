@@ -69,6 +69,7 @@ Supported features and objects:
  
 
 # Side projects:
+- Rewriting MikCAD in C++ and Vulkan,
 - [Class library for graphs algorithms](https://github.com/WojcikMikolaj/GraphsLibrary) (C#, available on [Nuget](https://www.nuget.org/packages/Mikwk.GraphLibrary/), on hold 😐:),
 - [Home weather station/entertainment system](https://github.com/WojcikMikolaj/WeatherStation) based on RPi 4 and RPi zero (electronics + Python + Docker + Ansible + maybe C/C++, also on hold ☹️).
 
