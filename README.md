@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   - Finding and displaying intersection between following objects:
     - Bézier surfaces,
     - Toruses,
+    - intersection display also on parameter space of the intersected objects,
   - Stereoscopy using colors,
   - Machine milling simulation using simplified G-code files:
     - flat and ball cutters with configurable radius,
