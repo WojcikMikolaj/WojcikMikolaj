@@ -48,10 +48,9 @@ Here are some ideas to get you started:
       - C2,
       - Wrapped C2 (cylinder without base),
   - Hole patching using Gregory patch,
-  - Finding and displaying intersection between following objects:
+  - Finding and displaying (in world and parameter space) intersection between following objects:
     - Bézier surfaces,
-    - Toruses,
-    - intersection display also on parameter space of the intersected objects,
+    - Toruses,  
   - Stereoscopy using colors,
   - Machine milling simulation using simplified G-code files:
     - flat and ball cutters with configurable radius,
