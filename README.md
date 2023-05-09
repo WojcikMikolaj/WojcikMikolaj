@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 MikCAD:
 - CAD software written in C# using WPF for GUI and OpenTK for visualization.
 - Supported features and objects:
- - Creation and modification of:
-  - Points,
-  - Toruses,
-  - Bézier curves:
-   - C0,
-   - C2,
-   - Interpolating with C2 continuity,
+  - Creation and modification of:
+    - Points,
+    - Toruses,
+    - Bézier curves:
+      - C0,
+      - C2,
+      - Interpolating with C2 continuity,
   - Bézier surfaces:
    - C0,
    - Wrapped C0 (cylinder without base),
