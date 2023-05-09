@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - VR development.
 
 # MikCAD:
-## CAD software written in C# using WPF for GUI and OpenTK for visualization.
+CAD software written in C# using WPF for GUI and OpenTK for visualization.
 Supported features and objects:
   - Creation and modification of:
     - Points,
