@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **WojcikMikolaj/WojcikMikolaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,13 +59,16 @@ Here are some ideas to get you started:
       - milling down with flat cutter.
   - G-code generation for one provided model designed using this software.
  
- ![obraz](https://user-images.githubusercontent.com/52234302/237031281-fd6f2fd8-a71e-4c40-a6ce-885781d7b2a4.png)
+
+ |![UI](https://user-images.githubusercontent.com/52234302/237031281-fd6f2fd8-a71e-4c40-a6ce-885781d7b2a4.png)|
+ |:--:|
+ |Application window with C0 surface.|
 
  
   
  
 
- Side projects:
+# Side projects:
 - [Class library for graphs algorithms](https://github.com/WojcikMikolaj/GraphsLibrary) (C#, available on [Nuget](https://www.nuget.org/packages/Mikwk.GraphLibrary/), on hold 😐:),
 - [Home weather station/entertainment system](https://github.com/WojcikMikolaj/WeatherStation) based on RPi 4 and RPi zero (electronics + Python + Docker + Ansible + maybe C/C++, also on hold ☹️).
 
