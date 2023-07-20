@@ -16,21 +16,24 @@ Here are some ideas to get you started:
 -->
 
 🧰 My toolbox:
-- C,
-- C++ (a bit rusty),
 - C#,
+- C++,
+- C,
 - OpenTK,
 - OpenGL,
+- DirectX 11,
+- HLSL,
+- GLSL,
+- Unity,
 - Java 🌋,
-- Python 🐍 (still learning),
-- SQL (also a bit rusty),
-- Docker 🐳 (also a bit rusty).
+- Python 🐍,
+- SQL (a bit rusty),
+- Docker 🐳 (also a bit rusty),
+- CUDA (haven't written anything in a while).
 
 :books: Currently learning:
-- DirectX,
 - Vulkan,
-- Unreal Engine 5,
-- VR development.
+- Unreal Engine 5.
 
 # MikCAD:
 CAD software written in C# using WPF for GUI and OpenTK for visualization.\
