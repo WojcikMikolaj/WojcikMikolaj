@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Software Engineer at Google & Research and Teaching Associate at MiNI faculty of Warsaw University of Technology. I specialise in Computer Graphics, VR, Computer Simulations and CAD/CAM Systems Design.
+I'm Software Engineer at Google DeepMind & Research and Teaching Assistant at MiNI faculty of Warsaw University of Technology. I specialise in Computer Graphics, VR, Computer Simulations and CAD/CAM Systems Design.
 <!--
 **WojcikMikolaj/WojcikMikolaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
