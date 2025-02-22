@@ -1,6 +1,5 @@
 # Hi there 👋
 I'm Software Engineer at Google & Research and Teaching Associate at MiNI faculty of Warsaw University of Technology. I specialise in Computer Graphics, VR, Computer Simulations and CAD/CAM Systems Design.
-Currently I'm also working as software developer in financial sector.
 <!--
 **WojcikMikolaj/WojcikMikolaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
