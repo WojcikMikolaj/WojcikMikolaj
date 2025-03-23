@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Unity,
 - Java 🌋,
 - Python 🐍,
+- Go,
 - SQL (a bit rusty),
 - Docker 🐳 (also a bit rusty),
 - CUDA (haven't written anything in a while).
